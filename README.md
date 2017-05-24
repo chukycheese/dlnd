@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Installation
 
 Each directory has a `requirements.txt` describing the minimal dependencies required to run the notebooks in that directory.
@@ -9,3 +10,7 @@ To install these dependencies with pip, you can issue `pip3 install -r requireme
 ### Conda Environments
 
 You can find Conda environment files for the Deep Learning program in the `environments` folder. Note that environment files are platform dependent. Versions with `tensorflow-gpu` are labeled in the filename with "GPU".
+=======
+# dlnd
+Udacity Deep Learning Nano Degree Program
+>>>>>>> cbc21ec0455592d2bbeed76b9da81e4b22dde0ac
